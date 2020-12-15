@@ -1,0 +1,13 @@
+Execution Time: 117885
+Execution Time: 162387
+Execution Time: 642716
+Execution Time: 1773953
+Execution Time: 4120205
+Execution Time: 8007375
+Execution Time: 22937744
+Execution Time: 55444129
+Execution Time: 146560033
+Execution Time: 477460931
+Execution Time: 1817889113
+Execution Time: 5364969217
+Execution Time: 22699337018
