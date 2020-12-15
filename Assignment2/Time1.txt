@@ -1,0 +1,16 @@
+Size: 5 & Execution Time: 516837
+Size: 6 & Execution Time: 287964
+Size: 7 & Execution Time: 4599
+Size: 8 & Execution Time: 7560
+Size: 9 & Execution Time: 91213
+Size: 10 & Execution Time: 282163
+Size: 11 & Execution Time: 224695
+Size: 12 & Execution Time: 344723
+Size: 13 & Execution Time: 174679
+Size: 14 & Execution Time: 186098
+Size: 15 & Execution Time: 314344
+Size: 16 & Execution Time: 13591
+Size: 17 & Execution Time: 65145
+Size: 18 & Execution Time: 321988
+Size: 19 & Execution Time: 20951
+Size: 20 & Execution Time: 7341
