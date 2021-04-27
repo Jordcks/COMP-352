@@ -1,0 +1,27 @@
+
+Current system time (cycles): 3926
+Total number of jobs executed: 100 Jobs
+Average process waiting time: 1929 Cycles.
+Total number of priority chnages: 3
+Actual system time needed to execute all hobs: 292ms.
+
+---------------------------------------------
+
+
+Current system time (cycles): 40920
+Total number of jobs executed: 1000 Jobs
+Average process waiting time: 18142 Cycles.
+Total number of priority chnages: 32
+Actual system time needed to execute all hobs: 2163ms.
+
+---------------------------------------------
+
+
+Current system time (cycles): 408002
+Total number of jobs executed: 10000 Jobs
+Average process waiting time: 180263 Cycles.
+Total number of priority chnages: 327
+Actual system time needed to execute all hobs: 21388ms.
+
+---------------------------------------------
+
